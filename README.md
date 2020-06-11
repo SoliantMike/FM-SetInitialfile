@@ -1,4 +1,4 @@
-# FM-SetInifialfile
+# FM-SetInitialfile
  
 There is a setting FileMaker 18 that allows you to set a preference for opening a file when FileMaker is first launched. Previously the only way to set this preference was to specify it in a text document, Assisted Install.txt, when you first installed that application. In FileMaker 19, you can manually set this in the Preferences.
 
