@@ -1,6 +1,6 @@
 # FM-SetInifialfile
  
-There is a setting, introduced in FileMaker 18, that allows you to set a preference for opening a file when FileMaker is first launched. Previously the only way to set this preference was to specify it in a text document, Assisted Install.txt, when you first installed that application. In FileMaker 19, you can manually set this in the Preferences.
+There is a setting FileMaker 18 that allows you to set a preference for opening a file when FileMaker is first launched. Previously the only way to set this preference was to specify it in a text document, Assisted Install.txt, when you first installed that application. In FileMaker 19, you can manually set this in the Preferences.
 
 This setting can be quite useful in certain deployment scenarios, such as office wide deployments where your solution should open by default for users. Doing so will avoid users seeing the default FileMaker Launch Center that can be confusing to some users. The file to be opened can either be a local file, or a file hosted on FileMaker Server or FileMaker Cloud.
 
